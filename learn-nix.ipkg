@@ -1,0 +1,5 @@
+package learn-nix
+authors = "alrunner4@gmail.com"
+modules = Nix.Flakes
+        , Nix.Types
+	, Nix.Platform
